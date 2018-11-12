@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pylab
 
-option = "5b" ## give 5a to see the results for 5a or 5b to see 
+option = "5a" ## give 5a to see the results for 5a or 5b to see 
 ##the results of 5b
 
 if(option == "5a"):
